@@ -124,7 +124,10 @@ hr {
   section.content img {
     width: 300px;
   }
-
+  iframe {
+    width: auto;
+    height: auto;
+  }
   .text h1 {
     font-size: 25px;
   }
